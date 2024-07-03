@@ -1,0 +1,11 @@
+#dependencies
+
+node_modules/
+# Ignore dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Ignore specific files
+frontend/src/config.js
+# backend/config.env
+config.env
